@@ -1,0 +1,47 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(134, 193, 242);
+    color: white;
+    font-size: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+
+.nav{
+    top: 0px;
+    right: 0px;
+}
+
+.header{
+    top: 0px;
+    left: 0px;
+    right: 0px; 
+    text-align: center;
+}
+
+.content{
+    top: 80px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.footer{
+    font-style: italic;
+    text-align: center;
+    font-size: 50%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: rgba(117, 168, 168, 0.5);
+}
+
+.imgpos{
+    top: 100px;
+    right: 0px;
+}
